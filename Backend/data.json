@@ -58,5 +58,65 @@
     "title": "Meditation for Beginners",
     "image": "https://example.com/images/meditation.jpg",
     "description": "An introduction to meditation and mindfulness techniques for beginners."
+  },
+   {
+    "id": 11,
+    "title": "The Future of AI",
+    "image": "https://example.com/images/ai_future.jpg",
+    "description": "An in-depth analysis of how AI is shaping the future of technology and society."
+  },
+  {
+    "id": 12,
+    "title": "Sustainable Living",
+    "image": "https://example.com/images/sustainable_living.jpg",
+    "description": "Practical tips and strategies for adopting a more sustainable and eco-friendly lifestyle."
+  },
+  {
+    "id": 13,
+    "title": "Mastering Python",
+    "image": "https://example.com/images/python_master.jpg",
+    "description": "Advanced techniques and tools to enhance your Python programming skills."
+  },
+  {
+    "id": 14,
+    "title": "Culinary Arts for Beginners",
+    "image": "https://example.com/images/culinary.jpg",
+    "description": "An introductory guide to cooking and creating delicious meals from scratch."
+  },
+  {
+    "id": 15,
+    "title": "Fitness and Wellness Trends 2024",
+    "image": "https://example.com/images/fitness_trends.jpg",
+    "description": "Discover the latest trends in fitness and wellness that are set to take over 2024."
+  },
+  {
+    "id": 16,
+    "title": "Cybersecurity Best Practices",
+    "image": "https://example.com/images/cybersecurity.jpg",
+    "description": "Learn the best practices to protect your digital life and stay safe online."
+  },
+  {
+    "id": 17,
+    "title": "Minimalism in Design",
+    "image": "https://example.com/images/minimalism_design.jpg",
+    "description": "Explore the art of minimalism in design and how it can create impactful visuals."
+  },
+  {
+    "id": 18,
+    "title": "How to Build a Mobile App",
+    "image": "https://example.com/images/mobile_app.jpg",
+    "description": "Step-by-step instructions on building your first mobile app from idea to deployment."
+  },
+  {
+    "id": 19,
+    "title": "Public Speaking for Professionals",
+    "image": "https://example.com/images/public_speaking.jpg",
+    "description": "Improve your public speaking skills and become a confident communicator."
+  },
+  {
+    "id": 20,
+    "title": "Introduction to Blockchain",
+    "image": "https://example.com/images/blockchain.jpg",
+    "description": "A beginner's guide to understanding blockchain technology and its applications."
   }
 ]
