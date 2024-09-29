@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Exploring the Mountains",
+    "image": "https://example.com/images/mountains.jpg",
+    "description": "A guide to exploring the beautiful mountain ranges across the world."
+  },
+  {
+    "id": 2,
+    "title": "Best Coding Practices",
+    "image": "https://example.com/images/coding.jpg",
+    "description": "Learn the best coding practices that improve your code quality and maintainability."
+  },
+  {
+    "id": 3,
+    "title": "Healthy Eating Habits",
+    "image": "https://example.com/images/healthy_eating.jpg",
+    "description": "Tips and advice on building healthy eating habits for a better lifestyle."
+  },
+  {
+    "id": 4,
+    "title": "Traveling Europe on a Budget",
+    "image": "https://example.com/images/europe_travel.jpg",
+    "description": "Discover how to travel across Europe without breaking the bank."
+  },
+  {
+    "id": 5,
+    "title": "Mastering JavaScript",
+    "image": "https://example.com/images/js_master.jpg",
+    "description": "Essential tips and tricks to become a proficient JavaScript developer."
+  },
+  {
+    "id": 6,
+    "title": "The Art of Photography",
+    "image": "https://example.com/images/photography.jpg",
+    "description": "Learn the basics of photography and how to capture stunning images."
+  },
+  {
+    "id": 7,
+    "title": "Home Workout Routines",
+    "image": "https://example.com/images/home_workout.jpg",
+    "description": "Simple yet effective workout routines you can do at home."
+  },
+  {
+    "id": 8,
+    "title": "Building a Personal Blog",
+    "image": "https://example.com/images/blog.jpg",
+    "description": "A step-by-step guide to building your personal blog from scratch."
+  },
+  {
+    "id": 9,
+    "title": "Top 10 Programming Languages in 2024",
+    "image": "https://example.com/images/programming_languages.jpg",
+    "description": "Find out which programming languages are dominating the tech industry in 2024."
+  },
+  {
+    "id": 10,
+    "title": "Meditation for Beginners",
+    "image": "https://example.com/images/meditation.jpg",
+    "description": "An introduction to meditation and mindfulness techniques for beginners."
+  }
+]
